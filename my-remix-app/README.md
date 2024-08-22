@@ -36,3 +36,10 @@ npm run dev
 ```
 
 Open up [http://localhost:5173](http://localhost:5173) and you should be ready to go!
+
+
+INSTALL necessary packages
+
+npm install @adobe/react-spectrum 
+
+see more about this UI components library https://react-spectrum.adobe.com/react-spectrum/layout.html#example
